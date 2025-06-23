@@ -24,6 +24,10 @@ public class User {
     @Column(name = "username", unique = true)
     String username;
 
+
+    @Column(name = "phone_number", length = 20)
+    String phoneNumber;
+
     String password;
     String firstName;
     LocalDate dob;
