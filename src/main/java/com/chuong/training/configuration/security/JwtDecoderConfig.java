@@ -1,4 +1,4 @@
-package com.chuong.training.configuration;
+package com.chuong.training.configuration.security;
 
 import lombok.experimental.NonFinal;
 import org.springframework.beans.factory.annotation.Value;

@@ -1,4 +1,4 @@
-package com.chuong.training.configuration;
+package com.chuong.training.configuration.cache;
 
 import com.github.benmanes.caffeine.cache.Caffeine;
 import org.springframework.cache.CacheManager;

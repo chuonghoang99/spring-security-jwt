@@ -1,4 +1,4 @@
-package com.chuong.training.configuration;
+package com.chuong.training.configuration.security;
 
 import com.chuong.training.exception.AppException;
 import com.chuong.training.exception.ErrorCode;
